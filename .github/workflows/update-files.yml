@@ -107,7 +107,7 @@ jobs:
           file-path: |
             balena.yml
             docker-compose.yml
-            config.txt
+            config.*
             .github/workflows/*.yml
           commit-msg: Update OpenFleet core files (testnet)
           github-token: ${{ secrets.MR_BUMP }}

@@ -1,4 +1,4 @@
-![Helium Syncrobit RK CM3 Firmware Repo Header](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/Nebra-Firmware-Github-Header-Linxdot-RKCM3.png?v=1688030309)
+![Helium Syncrobit RK CM3 Firmware Repo Header](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/Nebra-Firmware-Github-Header-SyncroBit-RKCM3.png?v=1688030309)
 
 # helium-syncrobit-rkcm3
 Nebra OpenFleet for Syncrobit ROCK CM3 Miners
